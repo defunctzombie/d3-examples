@@ -1,4 +1,4 @@
-d3 examples
+# d3 examples
 
 These examples are meant to be viewed using [tryme](http://tryme.jit.su)
 
