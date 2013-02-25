@@ -1,5 +1,4 @@
 var d3 = require('../d3');
-var data = require('./flare.json');
 
 var diameter = 960,
     format = d3.format(",d"),
